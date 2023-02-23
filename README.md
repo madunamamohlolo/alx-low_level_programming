@@ -1,2 +1,2 @@
-# alx-low_level_programming
+l - Functions, nested loops
 My first C programming 
