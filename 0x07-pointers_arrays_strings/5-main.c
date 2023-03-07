@@ -11,6 +11,6 @@ int main(void)
 	char *t;
 
 	t = _strstr(s, f);
-	printf("%s\n" t);
+	printf("%s\n", t);
 	return (0);
 }
